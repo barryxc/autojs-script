@@ -1,0 +1,10 @@
+{
+    "name": "autojs-helper",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "packageName": "com.barry.autojs",
+    "versionName": "1.0.0",
+    "versionCode": 1
+}
