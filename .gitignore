@@ -1,3 +1,4 @@
 .vscode
 dist
 src/taojinbi.js
+node_modules
